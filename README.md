@@ -9,10 +9,10 @@ The instructions for the deployment of the applications and some additional info
 
 ## Application
 The application to be deployed as part of the lecture is available at:
-- [Country-App-Service](https://github.com/exxcellent/microservice-country-app) (Frontend)
-- [Country-Service](https://github.com/exxcellent/microservice-country-service) (Backend)
-- [Language-Service](https://github.com/exxcellent/microservice-language-service) (Backend)
-- [Currency-Service](https://github.com/exxcellent/microservice-currency-service) (Backend)
+- [Country-App-Service](https://github.com/bettercodepaul/microservice-country-app) (Frontend)
+- [Country-Service](https://github.com/bettercodepaul/microservice-country-service) (Backend)
+- [Language-Service](https://github.com/bettercodepaul/microservice-language-service) (Backend)
+- [Currency-Service](https://github.com/bettercodepaul/microservice-currency-service) (Backend)
 
 ## Katacoda courses from the lesson
 - [Docker Deploy static HTML page](https://www.katacoda.com/courses/docker/create-nginx-static-web-server)
